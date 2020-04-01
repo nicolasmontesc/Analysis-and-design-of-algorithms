@@ -1,4 +1,2 @@
-# Analysis-and-design-of-algorithms
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# Analisis y Diseño de Algoritmos
+![](http://dachcolombia.com/wp-content/uploads/2017/07/7993_universidad-de-san-buenaventura.jpg)
