@@ -33,8 +33,8 @@
 >   * _Queue_
 
 > * **Programa sobre COVID-19** 🦇 💩 💀
-![Recordit GIF](https://media.giphy.com/media/IhUkEihTpf8FFMssng/giphy.gif)
 >   * _Explicacion:_ https://www.youtube.com/watch?v=O5jB4t485D0&feature=youtu.be
+    ![Recordit GIF](https://media.giphy.com/media/IhUkEihTpf8FFMssng/giphy.gif)
 
 > * **Algoritmos de Ordenamiento en Python** 🐍
 >   * _Metodo Burbuja_
