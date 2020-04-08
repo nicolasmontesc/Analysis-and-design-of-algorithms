@@ -35,6 +35,8 @@
 > * **Programa sobre COVID-19** 🦇 💩 💀
 >   * _Explicacion:_ https://www.youtube.com/watch?v=O5jB4t485D0&feature=youtu.be
     ![Recordit GIF](https://media.giphy.com/media/f5kcY1w5pL0Gq28K04/giphy.gif)
+    ![Recordit GIF](https://media.giphy.com/media/YrrCtRLkj1Hq1jogEE/giphy.gif)
+    
 
 > * **Algoritmos de Ordenamiento en Python** 🐍
 >   * _Metodo Burbuja_
