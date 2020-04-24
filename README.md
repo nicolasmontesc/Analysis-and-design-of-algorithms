@@ -82,7 +82,7 @@
 > - **API Collections** 📚
 >   <div align="center"><img src="https://media.giphy.com/media/ZZx1D9AKXFxpWbItNv/giphy.gif"></div>
 >
->   1. Example 1 of ArrayList
+>  1. Example 1 of ArrayList
 >
 >   - _Solution of the exercise in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte2/apicollections/ArrayList1.java)_
 >
@@ -123,7 +123,7 @@
 > - **Marathon Exercises 2** 📑
 >   <div align="center"><img src="https://media.giphy.com/media/JPTw5oYRdNTXgLD4sA/giphy.gif"></div>
 >
->   1. Bacterial Domination
+>  1. Bacterial Domination
 >
 >   - _Full description of the [exercise](https://www.urionlinejudge.com.br/judge/en/problems/view/2687)_
 >   - _Solution of the exercise in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte2/ejerciciosdemaraton/BacterialDomination.java)_
@@ -192,7 +192,7 @@
 > - **Workshop Recursion** 📈
 >   <div align="center"><img src="https://media.giphy.com/media/daflA1G3zSKKZMKI4i/giphy.gif"></div>
 >
->   1. Search for an element of type String
+>  1. Search for an element of type String
 >
 >   - _Solution of the exercise in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte2/taller4recursividad/parte2/BuscarElementoString.java)_
 >
