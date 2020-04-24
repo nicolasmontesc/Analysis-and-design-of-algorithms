@@ -1,4 +1,4 @@
-# <p style='text-align: center;'>PRESENTATION OF THE COURSE</p>
+# <p style='text-align: justify;'>PRESENTATION OF THE COURSE</p>
 
 <div align="center"><img src="https://media.giphy.com/media/ZEehVvEi5mJ47qYy1o/giphy.gif"></div>
 
