@@ -11,3 +11,6 @@
 >   1. Circle area  
 >   - _Full description of the [exercise](https://www.urionlinejudge.com.br/judge/es/problems/view/1002)_
 >   - _Solution of the exercise in java [code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte1/ejerciciosdemaraton/AreaCirculo.java)_
+>   2. Spent fuel
+>   - _Full description of the [exercise](https://www.urionlinejudge.com.br/judge/es/problems/view/1017)_
+>   - _Solution of the exercise in java [code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte1/ejerciciosdemaraton/CombustibleGastado.java)_
