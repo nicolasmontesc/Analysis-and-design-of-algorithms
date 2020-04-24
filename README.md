@@ -1,4 +1,4 @@
-# <span style="color:aqua"><p style='text-align: center;'>_**PRESENTATION OF THE COURSE**_</p></span>
+# <span style="color:cyan"><p style='text-align: center;'>_**PRESENTATION OF THE COURSE**_</p></span>
 
 <div align="center"><img src="https://media.giphy.com/media/ZEehVvEi5mJ47qYy1o/giphy.gif"></div>
 
