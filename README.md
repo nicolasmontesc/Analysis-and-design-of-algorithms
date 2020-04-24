@@ -143,7 +143,7 @@
 >   - _Full description of the [exercise](https://www.urionlinejudge.com.br/judge/en/problems/view/2542)_
 >   - _Solution of the exercise in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte2/ejerciciosdemaraton/LuDiOh.java)_
 >
->   5. Magic Sword
+>   5. Magic and Sword
 >
 >   - _Full description of the [exercise](https://www.urionlinejudge.com.br/judge/es/problems/view/2632)_
 >   - _Solution of the exercise in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/blob/master/Trabajos/src/corte2/ejerciciosdemaraton/MagicSword.java)_
