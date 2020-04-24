@@ -171,6 +171,7 @@
 > > _Solution of the project in [java code](https://github.com/nicolasmontesc/Analysis-and-design-of-algorithms/tree/master/ProyectoCovid19)_
 > >
 > > _Explanatory [video](https://www.youtube.com/watch?v=O5jB4t485D0&feature=youtu.be) of the project_
+> <CENTER><iframe width="560" height="315" src="https://www.youtube.com/embed/YsV3OotPiqA" frameborder="0"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></CENTER>
 >
 > ---
 >
