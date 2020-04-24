@@ -37,10 +37,10 @@
 >   9. Quiz - Walking in Time
 >   - _Full description of the [exercise]()_
 >   - _Solution of the exercise in [java code]()_
----
+> ---
 >> # _Second cut_
 >>
-> - **Sorting Algorithms** 🧮
+> - **Sorting Algorithms in Java** 🧮
 > <div align="center"><img src="https://media.giphy.com/media/XdJWVdih57GRdBt8ly/giphy.gif"></div>
 >The ordering algorithms allow us, as the name implies, to order information in a special way based on a sorting criterion.
 >
@@ -98,4 +98,59 @@
 >   - _Full description of the [exercise]()_
 >   - _Solution of the exercise in [java code]()_
 > ---
-> - **Workshop Number Four Recursion** 📈
+> - **Project COVID-19** 💀
+> <div align="center"><img src="https://media.giphy.com/media/f5kcY1w5pL0Gq28K04/giphy.gif"></div>
+>
+>   - What is COVID-19?
+>
+>Coronaviruses are a family of viruses that can cause diseases such as the common cold, severe acute respiratory syndrome (SARS), and Middle East respiratory syndrome (MERS). In 2019, a new coronavirus was identified as the cause of a disease outbreak that originated in China.
+>
+>This virus is now known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease it causes is called coronavirus disease 2019 (COVID-19). In March 2020, the World Health Organization (WHO) declared this COVID-19 outbreak to be a pandemic.
+>
+>Public health organizations, including the United States Centers for Disease Control and Prevention (CDC) and (WHO) are monitoring the pandemic and posting updates on their websites. These groups have also published recommendations to prevent and treat this disease.
+>
+>> _For more information on [COVID-19](https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963)_
+>>
+>> _Solution of the project in [java code]()_
+>>
+>> _Explanatory [video](https://www.youtube.com/watch?v=O5jB4t485D0&feature=youtu.be) of the project_
+>
+> ---
+> - **Sorting Algorithms in Python** 🐍
+> <div align="center"><img src="https://media.giphy.com/media/YlGnxKGs7yDqEPatza/giphy.gif"></div>
+>
+>In computation and mathematics an ordering algorithm is an algorithm that puts elements of a list or a vector in a sequence given by an order relation, that is, the output result must be a permutation or rearrangement of the input that satisfies the given order relation. The most used order relationships are the numerical order and the lexicographic order. Efficient ordering is important to optimize the use of other algorithms (such as search and merge) that require ordered lists for fast execution. It is also useful for putting data into canonical form and for generating human readable results.
+>
+>Since the beginning of computing, the problem of ordering has attracted a great deal of research, perhaps due to the complexity of solving it efficiently despite its simple and familiar approach. For example, BubbleSort has been analyzed since 1956.1 Although many may consider it a solved problem, useful new sorting algorithms are still invented to this day (for example, the library sort was first published in 2004). Ordering algorithms are common in introductory computing classes, where the abundance of algorithms for the problem provides a gentle introduction to the variety of algorithm core concepts, such as capital O notation, divide-and-conquer algorithms, data structures , worst, best, and average case analysis, and lower limits.
+>
+>> _For more information [sorting algorithms](https://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento)_
+>>
+>>_All sorting algorithms in [python code]()_
+>>
+>> _Explanatory [video](https://www.youtube.com/watch?v=jL_4TVUP_HA) of the algorithms_
+> ---
+> - **Workshop Recursion** 📈
+>   1. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   2. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   3. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   4. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   5. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   6. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   7. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   8. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   9. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   10. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   11. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
+>   12. Search for an element of type String 
+>   - _Solution of the exercise in [java code]()_
