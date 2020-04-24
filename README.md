@@ -1,4 +1,4 @@
-# <span style="color:cyan"><font face="times new roman"><p style='text-align: center;'>_**PRESENTATION OF THE COURSE**_</p></font>
+# <CENTER><span style="color:cyan"><font face="times new roman"><p style='text-align: center;'>_**PRESENTATION OF THE COURSE**_</p></font></CENTER>
 
 </span>
 <div align="center"><img src="https://media.giphy.com/media/ZEehVvEi5mJ47qYy1o/giphy.gif"></div>
