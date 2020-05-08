@@ -1,0 +1,35 @@
+CREATE KEYSPACE panaderia
+WITH replication = {
+	'class' : 'SimpleStrategy',
+	'replication_factor' : 1
+};
+
+CREATE TABLE panaderia.productos (
+	id int,
+	cantidad int,
+	costo int,
+	dia_venta varchar,
+	fecha_vencimiento varchar,
+	marca varchar,
+	nombre varchar,
+	peso varchar,
+	PRIMARY KEY (id)
+);
+
+USE panaderia;
+//Crear
+INSERT INTO panaderia.productos (id, cantidad, costo, dia_venta, fecha_vencimiento, marca, nombre, peso) 
+VALUES (6, 23, 3000,'01/03/2020','04/11/2030', 'Frijolito','Sancocho','Litros');
+
+//Editar
+UPDATE productos SET cantidad=40,costo=500,dia_venta='01/01/2010',fecha_vencimiento='01/12/2010',marca='Alqueria',nombre='Yogurt',peso='Litros'WHERE id=2; 
+
+//Eliminar
+DELETE FROM productos WHERE id=2;
+SELECT * FROM productos;
+
+//Buscar
+SELECT * FROM panaderia.productos WHERE  id=1 ;
+
+
+SELECT * FROM productos;
